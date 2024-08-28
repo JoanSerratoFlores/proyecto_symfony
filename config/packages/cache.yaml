@@ -1,0 +1,6 @@
+framework:
+    cache:
+        pools:
+            my_cache:
+                adapter: cache.app
+                default_lifetime: 3600
